@@ -5,7 +5,23 @@
 🎖 I'm also a Salesforce Certified Associate and have some experience as a Salesforce Sales Cloud Developer.
 ## 🛠  Technologies and tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,php,mysql,js,html,css,jquery,react,bootstrap,postman,vscode,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,php,mysql,js,html,css,jquery,react,bootstrap,postman,vscode,github,figma)](https://skillicons.dev)<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 🔍  Where to find me
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/miguelfontechaelizalde)
