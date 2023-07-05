@@ -24,7 +24,7 @@
 
 
 ## 🔍  Where to find me
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/miguelfontechaelizalde)
+<a href="https://www.linkedin.com/in/miguelfontechaelizalde" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 [<img src="https://img.shields.io/badge/Trailblazer-00A1E0" title="Trailblazer" height="25" />](https://trailblazer.me/id/mfontechaelizalde)
 
 
